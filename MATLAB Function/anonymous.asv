@@ -1,0 +1,1 @@
+ath = @(name,age) disp(name,age);
