@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.flexathimyanmar.reactivextest",
+    "sha256_cert_fingerprints":
+    ["37:37:81:4A:12:03:61:0A:2C:91:3F:FB:0D:88:96:42:74:86:2D:E2:82:9A:27:43:5D:E4:94:08:3D:DA:82:E5"]
+  }
+}]
